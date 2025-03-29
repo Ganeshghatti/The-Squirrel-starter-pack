@@ -1,0 +1,28 @@
+{
+  "name": "thesquirrel-starter-pack",
+  "version": "1.0.3",
+  "description": "A Next.js starter kit with Tailwind CSS",
+  "main": "bin/cli.js",
+  "bin": {
+    "create-squirrel-app": "./bin/cli.js"
+  },
+  "files": [
+    "bin/",
+    "template/"
+  ],
+  "dependencies": {
+    "fs-extra": "^11.1.1"
+  },
+  "keywords": [
+    "next.js",
+    "starter",
+    "tailwind",
+    "template"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ganeshghatti/The-Squirrel-starter-pack.git"
+  }
+}
